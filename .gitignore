@@ -87,3 +87,146 @@ ENV/
 
 # Rope project settings
 .ropeproject
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+.idea/
+/liaoxuefeng/image/访问数据库-1.png
+/liaoxuefeng/image/SMTP发送邮件-1.png
+/liaoxuefeng/image/WSGI接口-0.png
+/liaoxuefeng/image/Day 2 - 编写Web App骨架-0.png
+/liaoxuefeng/image/PIL-1.png
+/liaoxuefeng/image/第一个Python程序-0.png
+/liaoxuefeng/image/字符串和编码-4.png
+/liaoxuefeng/image/HTTP协议简介-4.png
+/liaoxuefeng/image/Day 15 - 部署Web App-0.png
+/liaoxuefeng/image/Day 11 - 编写日志创建页-1.png
+/liaoxuefeng/image/TCP编程-0.png
+/liaoxuefeng/image/数据类型和变量-1.png
+/liaoxuefeng/image/图形界面-1.png
+/liaoxuefeng/image/实战-1.png
+/liaoxuefeng/image/使用Web框架-2.png
+/liaoxuefeng/image/SMTP发送邮件-3.png
+/liaoxuefeng/image/Day 8 - 构建前端-0.png
+/liaoxuefeng/image/HTTP协议简介-0.png
+/liaoxuefeng/image/多重继承-0.png
+/liaoxuefeng/image/网络编程-0.png
+/liaoxuefeng/image/HTTP协议简介-2.png
+/liaoxuefeng/image/模块-1.png
+/liaoxuefeng/image/使用dict和set-0.png
+/liaoxuefeng/image/使用模板-2.png
+/liaoxuefeng/image/使用list和tuple-1.png
+/liaoxuefeng/image/Day 15 - 部署Web App-2.png
+/liaoxuefeng/image/继承和多态-0.png
+/liaoxuefeng/image/模块-0.png
+/liaoxuefeng/image/Python简介-0.png
+/liaoxuefeng/image/实战-3.png
+/liaoxuefeng/image/分布式进程-0.png
+/liaoxuefeng/image/HTML简介-0.png
+/liaoxuefeng/image/多重继承-2.png
+/liaoxuefeng/image/使用文本编辑器-1.png
+/liaoxuefeng/image/POP3收取邮件-0.png
+/liaoxuefeng/image/输入和输出-0.png
+/liaoxuefeng/image/安装Python-1.png
+/liaoxuefeng/image/WSGI接口-3.png
+/liaoxuefeng/image/HTML简介-2.png
+/liaoxuefeng/image/Python代码运行助手-2.png
+/liaoxuefeng/image/字符串和编码-2.png
+/liaoxuefeng/image/访问数据库-3.png
+/liaoxuefeng/image/字符串和编码-0.png
+/liaoxuefeng/image/base64-0.png
+/liaoxuefeng/image/Python代码运行助手-0.png
+/liaoxuefeng/image/第一个Python程序-2.png
+/liaoxuefeng/image/Day 9 - 编写API-0.png
+/liaoxuefeng/image/Day 11 - 编写日志创建页-0.png
+/liaoxuefeng/image/电子邮件-0.png
+/liaoxuefeng/image/Day 15 - 部署Web App-1.png
+/liaoxuefeng/image/数据类型和变量-2.png
+/liaoxuefeng/image/第一个Python程序-1.png
+/liaoxuefeng/image/WSGI接口-1.png
+/liaoxuefeng/image/PIL-0.png
+/liaoxuefeng/image/SMTP发送邮件-2.png
+/liaoxuefeng/image/数据类型和变量-0.png
+/liaoxuefeng/image/使用Web框架-3.png
+/liaoxuefeng/image/字符串和编码-3.png
+/liaoxuefeng/image/HTTP协议简介-3.png
+/liaoxuefeng/image/Day 7 - 编写MVC-0.png
+/liaoxuefeng/image/访问数据库-2.png
+/liaoxuefeng/image/HTTP协议简介-1.png
+/liaoxuefeng/image/使用dict和set-1.png
+/liaoxuefeng/image/Python简介-2.png
+/liaoxuefeng/image/使用模板-1.png
+/liaoxuefeng/image/Day 15 - 部署Web App-3.png
+/liaoxuefeng/image/实战-0.png
+/liaoxuefeng/image/字符串和编码-5.png
+/liaoxuefeng/image/使用Web框架-1.png
+/liaoxuefeng/image/Day 16 - 编写移动App-0.png
+/liaoxuefeng/image/SMTP发送邮件-4.png
+/liaoxuefeng/image/访问数据库-0.png
+/liaoxuefeng/image/多重继承-1.png
+/liaoxuefeng/image/Day 16 - 编写移动App-1.png
+/liaoxuefeng/image/期末总结-0.png
+/liaoxuefeng/image/使用Web框架-0.png
+/liaoxuefeng/image/Day 12 - 编写日志列表页-0.png
+/liaoxuefeng/image/UDP编程-0.png
+/liaoxuefeng/image/使用文本编辑器-0.png
+/liaoxuefeng/image/安装Python-2.png
+/liaoxuefeng/image/使用list和tuple-0.png
+/liaoxuefeng/image/TCP_IP简介-0.png
+/liaoxuefeng/image/Python简介-1.png
+/liaoxuefeng/image/Day 10 - 用户注册和登录-0.png
+/liaoxuefeng/image/安装Python-0.png
+/liaoxuefeng/image/实战-2.png
+/liaoxuefeng/image/map_reduce-0.png
+/liaoxuefeng/image/使用模板-0.png
+/liaoxuefeng/image/Python教程-0.png
+/liaoxuefeng/image/使用文本编辑器-2.png
+/liaoxuefeng/image/图形界面-0.png
+/liaoxuefeng/image/条件判断-0.png
+/liaoxuefeng/image/SMTP发送邮件-0.png
+/liaoxuefeng/image/WSGI接口-2.png
+/liaoxuefeng/image/Python代码运行助手-1.png
+/liaoxuefeng/image/字符串和编码-1.png
+/liaoxuefeng/image/HTML简介-1.png
